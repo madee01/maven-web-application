@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.14.151:8081/repository/tesla-webapp-snapshots/</url>
+	      <url>http://18.119.139.35:8081/repository/sgbc-web-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
